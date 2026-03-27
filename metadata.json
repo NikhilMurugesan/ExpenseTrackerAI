@@ -1,0 +1,5 @@
+{
+  "name": "Android Expense Tracker Blueprint",
+  "description": "A comprehensive architectural guide and developer dashboard for a production-grade Android SMS Expense Tracker.",
+  "requestFramePermissions": []
+}
